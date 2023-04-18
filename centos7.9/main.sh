@@ -2,4 +2,6 @@
 # shellcheck shell=bash
 
 # 执行总入口
-bash ./base.sh
+./base.sh
+./yum-repo.sh
+./golang.sh
